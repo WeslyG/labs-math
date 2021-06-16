@@ -1,0 +1,20 @@
+# Math labs deps
+matplotlib
+numpy
+scipy
+pandas
+seaborn
+statsmodels
+spectrum
+h5py
+PyWavelets
+sklearn
+pydot_ng
+pydot
+sequential
+keras==2.4.3
+tensorflow==2.5.0
+
+# Env deps
+ipykernel
+jupyter
